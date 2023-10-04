@@ -1,0 +1,24 @@
+{
+  "name": "is218git",
+  "version": "1.0.0",
+  "description": "This is my individual project for IS218 using node, playwrigh",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahn8/IS218git.git"
+  },
+  "keywords": [
+    "My",
+    "Portfolio",
+    "Project"
+  ],
+  "author": "Ameer Nazzal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahn8/IS218git/issues"
+  },
+  "homepage": "https://github.com/ahn8/IS218git#readme"
+}
